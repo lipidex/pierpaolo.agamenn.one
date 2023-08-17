@@ -1,0 +1,3 @@
+[submodule "themes/archie-mod"]
+	path = themes/archie-mod
+	url = https://github.com/lipidex/archie-mod.git

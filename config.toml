@@ -15,9 +15,13 @@ enableRobotsTXT = true
 
 paginate=3 # articles per page
 
+[sitemap]
+    filename = 'sitemap.xml'
+
 [params]
 	# mode="auto" # color-mode → light,dark,toggle or auto
 	mode = "toggle"
+	showCodeCopyButtons = true
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
 	subtitle = "Delving into [bytes]() to gain insights for constructing [shields]()"
 	mathjax = true # enable MathJax support
